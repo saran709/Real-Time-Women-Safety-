@@ -1,4 +1,4 @@
-# 🚨 Real-Time Women Safety System using Computer Vision
+# 🚨 AI Powered Women Safety Assistance Using Real-Time Image Processing
 
 This project is a real-time women safety monitoring system built using Python, OpenCV, and MediaPipe.
 It analyzes human behavior and silent hand gestures through a webcam to detect stress, danger, and SOS situations without requiring voice input or external devices.
